@@ -1,7 +1,7 @@
 # Image Conversion Project (C++)
 
 ## Description
-A Linux-based C++ project that performs image format conversion.
+A Linux-based C++ project that performs image  conversion.
 
 ## Features
 - Reads ppm image data
